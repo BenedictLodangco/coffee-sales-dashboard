@@ -17,7 +17,7 @@ It demonstrates how formulas, lookups, and pivot tools can be used to create int
 - **Dynamic Filters** – by roast type, size, and loyalty card status  
 
 ## Dashboard Preview
-![Coffee Sales Dashboard](./coffe-sales-dashboard.png)
+![Coffee Sales Dashboard](./coffee-sales-dashboard.png)
 
 ## Key Learnings
 - Built a fully functional Excel dashboard without advanced BI tools
